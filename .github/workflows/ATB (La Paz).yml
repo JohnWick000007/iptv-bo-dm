@@ -5,7 +5,7 @@ name: ATB (La Paz)
 # Controls when the workflow will run
 on:
   schedule:
-    - cron: '0 2,4,6,8,10,12,14,16,18,20,22,00 * * *'
+    - cron: '5 2,4,6,8,10,12,14,16,18,20,22,00 * * *'
   
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
