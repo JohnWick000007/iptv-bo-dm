@@ -1,6 +1,1 @@
-#EXTM3U
-#EXT-X-STREAM-INF:RESOLUTION=512x288,FRAME-RATE=30.000000,BANDWIDTH=782336,CODECS="avc1.420015,mp4a.40.5",NAME="380"
-https://live-b.cf.dmcdn.net/sec2(oeWOnL5uYFPsvVfSgrZa4HzwYb7mwPyh5TsDtDI0ct8jygHIn3w9h-6rJv0czvaIePpNGO4lpSD-q9Js5adJTCvy3WmuRE4qi72ezr8AOTpdHjp_pdBJTuFFrf4gfWoj)/dm/3/x84eirw/s/live-380.m3u8#cell=lcfb
-#EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=30.000000,BANDWIDTH=475136,CODECS="avc1.42000d,mp4a.40.5",NAME="240"
-https://live-b.cf.dmcdn.net/sec2(oeWOnL5uYFPsvVfSgrZa4HzwYb7mwPyh5TsDtDI0ct8jygHIn3w9h-6rJv0czvaIePpNGO4lpSD-q9Js5adJTCvy3WmuRE4qi72ezr8AOTpdHjp_pdBJTuFFrf4gfWoj)/dm/3/x84eirw/s/live-240.m3u8#cell=lcfb
-
+https://raw.githubusercontent.com/naveenland4/UTLive/main/assets/info.m3u8
